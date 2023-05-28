@@ -1,0 +1,27 @@
+{
+  "name": "todo-app",
+  "version": "1.0.0",
+  "description": "An app to get strong in backend and learn front end",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twok020101/TODO-app.git"
+  },
+  "keywords": [
+    "TODO",
+    "nodejs",
+    "react"
+  ],
+  "author": "Kshitij Kurandwad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/twok020101/TODO-app/issues"
+  },
+  "homepage": "https://github.com/twok020101/TODO-app#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
